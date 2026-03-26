@@ -1,108 +1,41 @@
 [
   {
-    "id": "feb28_01",
-    "title": "Operation Epic Fury: Decapitation Strike on Supreme Leader Compound",
-    "location": "TEHRAN, IRAN",
-    "lat": 35.6892,
-    "lng": 51.389,
-    "eventType": "missile",
-    "timestamp": 1772253900000,
-    "source": "US DoD / AP News"
+    "id": "feb28_01", "title": "Operation Epic Fury: Decapitation Strike on Supreme Leader Compound", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772253900000, "source": "US DoD / AP News",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_02",
-    "title": "US Strike Hits Girls' School Near IRGC Naval Base",
-    "location": "MINAB, IRAN",
-    "lat": 27.1466,
-    "lng": 57.08,
-    "eventType": "missile",
-    "timestamp": 1772257500000,
-    "source": "New York Times / CFR"
+    "id": "feb28_02", "title": "US Strike Hits Girls' School Near IRGC Naval Base", "location": "MINAB, IRAN", "lat": 27.1466, "lng": 57.08, "eventType": "missile", "timestamp": 1772257500000, "source": "New York Times / CFR"
   },
   {
-    "id": "feb28_03",
-    "title": "IAF Strikes 500 Targets Including IRGC Aerospace Facilities",
-    "location": "TABRIZ, IRAN",
-    "lat": 38.0792,
-    "lng": 46.2887,
-    "eventType": "missile",
-    "timestamp": 1772261100000,
-    "source": "Alma Research Center"
+    "id": "feb28_03", "title": "IAF Strikes 500 Targets Including IRGC Aerospace Facilities", "location": "TABRIZ, IRAN", "lat": 38.0792, "lng": 46.2887, "eventType": "missile", "timestamp": 1772261100000, "source": "Alma Research Center",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_04",
-    "title": "Iranian Retaliation: 9 Waves of Missiles Trigger Shelters",
-    "location": "TEL AVIV, ISRAEL",
-    "lat": 32.0853,
-    "lng": 34.7818,
-    "eventType": "siren",
-    "timestamp": 1772286000000,
-    "source": "AP News"
+    "id": "feb28_04", "title": "Iranian Retaliation: 9 Waves of Missiles Trigger Shelters", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "siren", "timestamp": 1772286000000, "source": "AP News",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_05",
-    "title": "Iranian Retaliation: 8 Waves of Missiles Fired",
-    "location": "NORTHERN ISRAEL",
-    "lat": 33.1,
-    "lng": 35.5,
-    "eventType": "siren",
-    "timestamp": 1772289600000,
-    "source": "Alma Research Center"
+    "id": "feb28_05", "title": "Iranian Retaliation: 8 Waves of Missiles Fired", "location": "NORTHERN ISRAEL", "lat": 33.1, "lng": 35.5, "eventType": "siren", "timestamp": 1772289600000, "source": "Alma Research Center"
   },
   {
-    "id": "feb28_06",
-    "title": "Drone Strike on Zayed International Airport (1 Killed, 7 Injured)",
-    "location": "ABU DHABI, UAE",
-    "lat": 24.4329,
-    "lng": 54.6511,
-    "eventType": "drone",
-    "timestamp": 1772293200000,
-    "source": "AP News"
+    "id": "feb28_06", "title": "Drone Strike on Zayed International Airport (1 Killed, 7 Injured)", "location": "ABU DHABI, UAE", "lat": 24.4329, "lng": 54.6511, "eventType": "drone", "timestamp": 1772293200000, "source": "AP News",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_07",
-    "title": "Drone/Missile Strike on Dubai International Airport (4 Injured)",
-    "location": "DUBAI, UAE",
-    "lat": 25.2532,
-    "lng": 55.3657,
-    "eventType": "drone",
-    "timestamp": 1772296800000,
-    "source": "AP News"
+    "id": "feb28_07", "title": "Drone/Missile Strike on Dubai International Airport (4 Injured)", "location": "DUBAI, UAE", "lat": 25.2532, "lng": 55.3657, "eventType": "drone", "timestamp": 1772296800000, "source": "AP News",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_08",
-    "title": "Iranian Strikes Target US Base and Kuwait International Airport",
-    "location": "KUWAIT CITY, KUWAIT",
-    "lat": 29.2266,
-    "lng": 47.98,
-    "eventType": "missile",
-    "timestamp": 1772300400000,
-    "source": "AP News"
+    "id": "feb28_08", "title": "Iranian Strikes Target US Base and Kuwait International Airport", "location": "KUWAIT CITY, KUWAIT", "lat": 29.2266, "lng": 47.98, "eventType": "missile", "timestamp": 1772300400000, "source": "AP News"
   },
   {
-    "id": "feb28_09",
-    "title": "Iranian Retaliatory Strike on US Forces Facility",
-    "location": "MANAMA, BAHRAIN",
-    "lat": 26.2285,
-    "lng": 50.586,
-    "eventType": "missile",
-    "timestamp": 1772304000000,
-    "source": "UK Parliament Report / Alma"
+    "id": "feb28_09", "title": "Iranian Retaliatory Strike on US Forces Facility", "location": "MANAMA, BAHRAIN", "lat": 26.2285, "lng": 50.586, "eventType": "missile", "timestamp": 1772304000000, "source": "UK Parliament Report / Alma"
   },
   {
-    "id": "feb28_10",
-    "title": "Iranian Retaliatory Strike on US Forces Facility",
-    "location": "DOHA, QATAR",
-    "lat": 25.2854,
-    "lng": 51.531,
-    "eventType": "missile",
-    "timestamp": 1772307600000,
-    "source": "Alma Research Center"
+    "id": "feb28_10", "title": "Iranian Retaliatory Strike on US Forces Facility", "location": "DOHA, QATAR", "lat": 25.2854, "lng": 51.531, "eventType": "missile", "timestamp": 1772307600000, "source": "Alma Research Center"
   },
   {
-    "id": "feb28_11",
-    "title": "Iranian Retaliatory Strike on US Base",
-    "location": "AMMAN, JORDAN", "lat": 31.9522, "lng": 35.2332, "eventType": "drone", "timestamp": 1772311200000, "source": "Alma Research Center"
+    "id": "feb28_11", "title": "Iranian Retaliatory Strike on US Base", "location": "AMMAN, JORDAN", "lat": 31.9522, "lng": 35.2332, "eventType": "drone", "timestamp": 1772311200000, "source": "Alma Research Center"
   },
   {
     "id": "feb28_12", "title": "Iranian Retaliatory Strike on US Base", "location": "BAGHDAD, IRAQ", "lat": 33.3152, "lng": 44.3661, "eventType": "drone", "timestamp": 1772314800000, "source": "Alma Research Center"
@@ -114,10 +47,12 @@
     "id": "feb28_14", "title": "Air Defenses Intercept Missiles Over Central Districts", "location": "RAMAT GAN, ISRAEL", "lat": 32.0823, "lng": 34.8105, "eventType": "intercept", "timestamp": 1772322000000, "source": "AP News"
   },
   {
-    "id": "mar01_01", "title": "Follow-up Strike Kills Supreme Leader Ali Khamenei", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772323200000, "source": "Vision IAS / Wikipedia"
+    "id": "mar01_01", "title": "Follow-up Strike Kills Supreme Leader Ali Khamenei", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772323200000, "source": "Vision IAS / Wikipedia",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar01_02", "title": "Drone Strike Hits Dubai International Airport Terminal 3", "location": "DUBAI, UAE", "lat": 25.2532, "lng": 55.3657, "eventType": "drone", "timestamp": 1772334600000, "source": "Wikipedia"
+    "id": "mar01_02", "title": "Drone Strike Hits Dubai International Airport Terminal 3", "location": "DUBAI, UAE", "lat": 25.2532, "lng": 55.3657, "eventType": "drone", "timestamp": 1772334600000, "source": "Wikipedia",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar01_03", "title": "Fire at Jebel Ali Port Following Aerial Interception", "location": "DUBAI, UAE", "lat": 24.9857, "lng": 55.0602, "eventType": "intercept", "timestamp": 1772338200000, "source": "Wikipedia / UAE Govt"
@@ -150,7 +85,8 @@
     "id": "mar02_03", "title": "Two Drones Intercepted Heading Towards RAF Akrotiri", "location": "AKROTIRI, CYPRUS", "lat": 34.5833, "lng": 32.9833, "eventType": "intercept", "timestamp": 1772460000000, "source": "UK Defence Ministry"
   },
   {
-    "id": "mar02_04", "title": "Drone Attack Halts Operations at Ras Tanura Refinery", "location": "RAS TANURA, SAUDI ARABIA", "lat": 26.6425, "lng": 50.1017, "eventType": "drone", "timestamp": 1772463600000, "source": "The Guardian"
+    "id": "mar02_04", "title": "Drone Attack Halts Operations at Ras Tanura Refinery", "location": "RAS TANURA, SAUDI ARABIA", "lat": 26.6425, "lng": 50.1017, "eventType": "drone", "timestamp": 1772463600000, "source": "The Guardian",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar02_05", "title": "Iranian Drone Strikes US Embassy", "location": "KUWAIT CITY, KUWAIT", "lat": 29.3759, "lng": 47.9774, "eventType": "drone", "timestamp": 1772467200000, "source": "New York Times / ISW"
@@ -159,10 +95,12 @@
     "id": "mar02_06", "title": "Six Missile Barrages Fired at Israel", "location": "ISRAEL (NATIONWIDE)", "lat": 31.0461, "lng": 34.8516, "eventType": "missile", "timestamp": 1772470800000, "source": "ISW"
   },
   {
-    "id": "mar03_01", "title": "Air Defenses Intercept New Wave of Missiles from Iran", "location": "ISRAEL (NATIONWIDE)", "lat": 31.0461, "lng": 34.8516, "eventType": "intercept", "timestamp": 1772506800000, "source": "IDF / AFP"
+    "id": "mar03_01", "title": "Air Defenses Intercept New Wave of Missiles from Iran", "location": "ISRAEL (NATIONWIDE)", "lat": 31.0461, "lng": 34.8516, "eventType": "intercept", "timestamp": 1772506800000, "source": "IDF / AFP",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar03_02", "title": "Powerful Explosions Heard in Capital", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772511300000, "source": "AFP / Local Media"
+    "id": "mar03_02", "title": "Powerful Explosions Heard in Capital", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772511300000, "source": "AFP / Local Media",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar03_03", "title": "Explosions and Smoke in Diplomatic Quarter", "location": "RIYADH, SAUDI ARABIA", "lat": 24.6828, "lng": 46.6219, "eventType": "drone", "timestamp": 1772518500000, "source": "AFP"
@@ -171,7 +109,8 @@
     "id": "mar03_04", "title": "Drone Strikes US Consulate Building", "location": "DUBAI, UAE", "lat": 25.26, "lng": 55.3, "eventType": "drone", "timestamp": 1772529300000, "source": "ISW"
   },
   {
-    "id": "mar03_05", "title": "Six Missile Barrages Fired; Cluster Munition Hits Near Tel Aviv", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "missile", "timestamp": 1772536500000, "source": "ISW"
+    "id": "mar03_05", "title": "Six Missile Barrages Fired; Cluster Munition Hits Near Tel Aviv", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "missile", "timestamp": 1772536500000, "source": "ISW",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar04_01", "title": "IDF Strikes IRGC Intelligence Headquarters", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.389, "eventType": "missile", "timestamp": 1772625600000, "source": "ISW / IDF"
@@ -186,7 +125,8 @@
     "id": "mar05_01", "title": "Iranian Drone Strikes Target US Base", "location": "ERBIL, IRAQ", "lat": 36.1901, "lng": 44.009, "eventType": "drone", "timestamp": 1772701200000, "source": "Iranian Media / ISW"
   },
   {
-    "id": "mar05_02", "title": "Massive Interception: 125 Drones and 6 Missiles Downed", "location": "ABU DHABI, UAE", "lat": 24.4539, "lng": 54.3773, "eventType": "intercept", "timestamp": 1772712000000, "source": "Emirati Defense Ministry"
+    "id": "mar05_02", "title": "Massive Interception: 125 Drones and 6 Missiles Downed", "location": "ABU DHABI, UAE", "lat": 24.4539, "lng": 54.3773, "eventType": "intercept", "timestamp": 1772712000000, "source": "Emirati Defense Ministry",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar05_03", "title": "Evacuation Sirens in Industrial Zones Ahead of Strikes", "location": "PAKDASHT, IRAN", "lat": 35.4746, "lng": 51.6811, "eventType": "siren", "timestamp": 1772722800000, "source": "IDF"
@@ -198,7 +138,8 @@
     "id": "mar05_05", "title": "Combined Forces Strike IRGC Ground Bases", "location": "KERMANSHAH, IRAN", "lat": 34.3142, "lng": 47.065, "eventType": "missile", "timestamp": 1772744400000, "source": "OSINT"
   },
   {
-    "id": "mar06_01", "title": "U.S. and Israeli Airstrikes Target Iranian Naval and Missile Infrastructure", "location": "BANDAR ABBAS, IRAN", "lat": 27.1832, "lng": 56.2666, "eventType": "missile", "timestamp": 1772784000000, "source": "US DoD / IDF"
+    "id": "mar06_01", "title": "U.S. and Israeli Airstrikes Target Iranian Naval and Missile Infrastructure", "location": "BANDAR ABBAS, IRAN", "lat": 27.1832, "lng": 56.2666, "eventType": "missile", "timestamp": 1772784000000, "source": "US DoD / IDF",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar06_02", "title": "Air Defenses Intercept Drone Swarm Approaching Energy Hub", "location": "RUWAIS, UAE", "lat": 24.1118, "lng": 52.7306, "eventType": "intercept", "timestamp": 1772805600000, "source": "UAE Ministry of Defence / Washington Post"
@@ -219,10 +160,12 @@
     "id": "mar08_01", "title": "Wave of Kamikaze Drones Intercepted Over Eastern Province", "location": "DHAHRAN, SAUDI ARABIA", "lat": 26.2361, "lng": 50.0393, "eventType": "intercept", "timestamp": 1772956800000, "source": "Saudi Defence Ministry / Reuters"
   },
   {
-    "id": "mar08_02", "title": "US Navy Destroyers Intercept Incoming Ballistic Missiles", "location": "PERSIAN GULF", "lat": 26.0, "lng": 52.0, "eventType": "intercept", "timestamp": 1772964000000, "source": "CENTCOM / Bloomberg"
+    "id": "mar08_02", "title": "US Navy Destroyers Intercept Incoming Ballistic Missiles", "location": "PERSIAN GULF", "lat": 26.0, "lng": 52.0, "eventType": "intercept", "timestamp": 1772964000000, "source": "CENTCOM / Bloomberg",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar08_03", "title": "Sirens Sound as Multi-Layered Defense Engages Projectiles", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "siren", "timestamp": 1772974800000, "source": "IDF Alerts / AP News"
+    "id": "mar08_03", "title": "Sirens Sound as Multi-Layered Defense Engages Projectiles", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "siren", "timestamp": 1772974800000, "source": "IDF Alerts / AP News",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar08_04", "title": "U.S. HIMARS Units Strike Mobile Launcher Columns", "location": "WESTERN IRAN", "lat": 34.3142, "lng": 47.065, "eventType": "missile", "timestamp": 1772985600000, "source": "US DoD"
@@ -234,13 +177,15 @@
     "id": "mar09_02", "title": "Rocket Barrage from Lebanon Targets Northern Communities", "location": "HAIFA, ISRAEL", "lat": 32.794, "lng": 34.9892, "eventType": "siren", "timestamp": 1773057600000, "source": "Reuters"
   },
   {
-    "id": "mar09_03", "title": "U.S. B-52 Bombers Strike Ballistic Missile Infrastructure", "location": "ISFAHAN, IRAN", "lat": 32.6539, "lng": 51.666, "eventType": "missile", "timestamp": 1773072000000, "source": "CENTCOM"
+    "id": "mar09_03", "title": "U.S. B-52 Bombers Strike Ballistic Missile Infrastructure", "location": "ISFAHAN, IRAN", "lat": 32.6539, "lng": 51.666, "eventType": "missile", "timestamp": 1773072000000, "source": "CENTCOM",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar09_04", "title": "Pro-Iranian Militias Launch Drones at U.S. Base", "location": "ERBIL, IRAQ", "lat": 36.1901, "lng": 44.009, "eventType": "drone", "timestamp": 1773086400000, "source": "ISW / Local Media"
   },
   {
-    "id": "mar10_01", "title": "US Forces Destroy 16 Iranian Mine-Laying Vessels", "location": "STRAIT OF HORMUZ", "lat": 26.5667, "lng": 56.25, "eventType": "missile", "timestamp": 1773111600000, "source": "US CENTCOM"
+    "id": "mar10_01", "title": "US Forces Destroy 16 Iranian Mine-Laying Vessels", "location": "STRAIT OF HORMUZ", "lat": 26.5667, "lng": 56.25, "eventType": "missile", "timestamp": 1773111600000, "source": "US CENTCOM",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar10_02", "title": "Air Defenses Intercept 7 Ballistic Missiles Targeting Air Base", "location": "PRINCE SULTAN AIR BASE, SAUDI ARABIA", "lat": 24.0622, "lng": 47.5636, "eventType": "intercept", "timestamp": 1773122400000, "source": "Saudi Defence Ministry"
@@ -294,7 +239,8 @@
     "id": "mar12_04", "title": "Missiles Fired From Iran; Sirens and Blasts Heard", "location": "JERUSALEM, ISRAEL", "lat": 31.7683, "lng": 35.2137, "eventType": "siren", "timestamp": 1773330300000, "source": "IDF Telegram / AP"
   },
   {
-    "id": "mar12_05", "title": "Massive Drone Interception Over Capital", "location": "RIYADH, SAUDI ARABIA", "lat": 24.7136, "lng": 46.6753, "eventType": "intercept", "timestamp": 1773350100000, "source": "Saudi Defence Ministry"
+    "id": "mar12_05", "title": "Massive Drone Interception Over Capital", "location": "RIYADH, SAUDI ARABIA", "lat": 24.7136, "lng": 46.6753, "eventType": "intercept", "timestamp": 1773350100000, "source": "Saudi Defence Ministry",
+    "videoSrc": "PASTE_YOUR_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar13_01", "title": "IDF Airstrikes Target Rocket Launch Sites", "location": "TYRE, LEBANON", "lat": 33.2705, "lng": 35.2038, "eventType": "missile", "timestamp": 1773364800000, "source": "Reuters"
@@ -306,184 +252,206 @@
     "id": "mar13_03", "title": "New Wave of Iranian Missiles Intercepted Over Northern Border", "location": "NORTHERN ISRAEL", "lat": 33.1, "lng": 35.5, "eventType": "intercept", "timestamp": 1773378600000, "source": "IDF"
   },
   {
-    "id": "feb28_bhr_01",
-    "title": "Missile Strike Targets US 5th Fleet HQ in Juffair District",
-    "location": "MANAMA, BAHRAIN",
-    "lat": 26.2153,
-    "lng": 50.6033,
+    "id": "feb28_bhr_01", "title": "Missile Strike Targets US 5th Fleet HQ in Juffair District", "location": "MANAMA, BAHRAIN", "lat": 26.2153, "lng": 50.6033, "eventType": "missile", "timestamp": 1772304000000, "source": "Reuters / BBC"
+  },
+  {
+    "id": "mar02_ksa_01", "title": "Drone Attack Halts Operations at Ras Tanura Refinery", "location": "RAS TANURA, SAUDI ARABIA", "lat": 26.6425, "lng": 50.1017, "eventType": "drone", "timestamp": 1772463600000, "source": "The Guardian / Al Jazeera"
+  },
+  {
+    "id": "mar02_bhr_01", "title": "Shipyard Worker Killed, Fire on U.S.-Flagged Tanker at Port", "location": "MINA SALMAN, BAHRAIN", "lat": 26.2028, "lng": 50.6083, "eventType": "drone", "timestamp": 1772470000000, "source": "USNI News"
+  },
+  {
+    "id": "mar07_ksa_01", "title": "Iranian Ballistic Missiles Intercepted Over Eastern Province", "location": "DHAHRAN, SAUDI ARABIA", "lat": 26.2361, "lng": 50.0393, "eventType": "intercept", "timestamp": 1772870400000, "source": "Saudi Defence Ministry"
+  },
+  {
+    "id": "mar10_shiraz_01", "title": "Coordinated Israeli Strikes Target Military Infrastructure and Airbases", "location": "SHIRAZ, IRAN", "lat": 29.5918, "lng": 52.5836, "eventType": "missile", "timestamp": 1773144000000, "source": "IranWire / IDF"
+  },
+  {
+    "id": "mar10_ksa_01", "title": "7 Ballistic Missiles Intercepted Targeting Prince Sultan Air Base", "location": "AL KHARJ, SAUDI ARABIA", "lat": 24.0622, "lng": 47.5636, "eventType": "intercept", "timestamp": 1773122400000, "source": "Saudi Defence Ministry"
+  },
+  {
+    "id": "mar11_bhr_01", "title": "Civilian Killed by Debris After Drone Intercepted Over Tower Block", "location": "MANAMA, BAHRAIN", "lat": 26.2285, "lng": 50.5860, "eventType": "intercept", "timestamp": 1773223200000, "source": "Gulf Daily News / Al Jazeera"
+  },
+  {
+    "id": "mar11_ksa_01", "title": "14 Kamikaze Drones Intercepted Over Kingdom Airspace", "location": "SAUDI ARABIA (MULTIPLE)", "lat": 24.7136, "lng": 46.6753, "eventType": "intercept", "timestamp": 1773255600000, "source": "Saudi Defence Ministry"
+  },
+  {
+    "id": "mar13_ksa_01", "title": "Drones Shot Down Near Riyadh; Refinery Fire Efforts Ongoing", "location": "RIYADH / RAS TANURA, SAUDI ARABIA", "lat": 24.7136, "lng": 46.6753, "eventType": "drone", "timestamp": 1773380000000, "source": "Al Jazeera"
+  },
+  {
+    "id": "feb28_bhr_01_alt", "title": "Iranian Missile/Drone Strike on US 5th Fleet HQ and Era Views Tower", "location": "MANAMA, BAHRAIN", "lat": 26.2153, "lng": 50.6033, "eventType": "missile", "timestamp": 1772280000000, "source": "US Navy / Local Media"
+  },
+  {
+    "id": "mar01_ksa_01", "title": "Missiles Intercepted Targeting Air Base and International Airport", "location": "RIYADH, SAUDI ARABIA", "lat": 24.9576, "lng": 46.7386, "eventType": "intercept", "timestamp": 1772366400000, "source": "Saudi Defence Ministry"
+  },
+  {
+    "id": "mar02_ksa_01_alt", "title": "Drone Attack Causes Fire at Ras Tanura Oil Refinery", "location": "RAS TANURA, SAUDI ARABIA", "lat": 26.6425, "lng": 50.1017, "eventType": "drone", "timestamp": 1772452800000, "source": "The Guardian / Saudi Authorities"
+  },
+  {
+    "id": "mar02_bhr_01_alt", "title": "Missile Strikes Mina Salman Port; Shipyard Worker Killed, US Tanker Ablaze", "location": "MINA SALMAN, BAHRAIN", "lat": 26.2028, "lng": 50.6083, "eventType": "missile", "timestamp": 1772460000000, "source": "USNI News / Reuters"
+  },
+  {
+    "id": "mar03_ksa_01", "title": "US Embassy Targeted by Drones; Minor Damage and Fire Reported", "location": "RIYADH, SAUDI ARABIA", "lat": 24.6828, "lng": 46.6219, "eventType": "drone", "timestamp": 1772539200000, "source": "Washington Post / Saudi Authorities"
+  },
+  {
+    "id": "mar08_ksa_01", "title": "Drone Strike on Residential Building Kills Two Civilians", "location": "AL-KHARJ, SAUDI ARABIA", "lat": 24.1500, "lng": 47.3000, "eventType": "drone", "timestamp": 1772971200000, "source": "Al Jazeera / Civil Defense"
+  },
+  {
+    "id": "mar09_bhr_01", "title": "Drone Strike on BAPCO Oil Refinery Causes 32 Civilian Injuries", "location": "SITRA ISLAND, BAHRAIN", "lat": 26.1606, "lng": 50.6206, "eventType": "drone", "timestamp": 1773057600000, "source": "Bahrain State Media"
+  },
+  {
+    "id": "mar10_shiraz_01_alt", "title": "IDF Strikes Military Infrastructure and Command Centers", "location": "SHIRAZ, IRAN", "lat": 29.5918, "lng": 52.5836, "eventType": "missile", "timestamp": 1773144000000, "source": "IDF / The Media Line"
+  },
+  {
+    "id": "mar10_bhr_01", "title": "Intercepted Drone Debris Kills 29-Year-Old Woman in Seef District", "location": "MANAMA, BAHRAIN", "lat": 26.2361, "lng": 50.5344, "eventType": "intercept", "timestamp": 1773151200000, "source": "Bahrain Interior Ministry"
+  },
+  {
+    "id": "mar12_shiraz_01", "title": "IAF Destroys Subterranean Ballistic Missile Manufacturing Site", "location": "SHIRAZ, IRAN", "lat": 29.5918, "lng": 52.5836, "eventType": "missile", "timestamp": 1773316800000, "source": "Times of Israel / IDF"
+  },
+  {
+    "id": "mar12_ksa_01", "title": "24 Drones and 2 Ballistic Missiles Intercepted Targeting Eastern Province", "location": "EASTERN PROVINCE, SAUDI ARABIA", "lat": 26.2361, "lng": 50.0393, "eventType": "intercept", "timestamp": 1773324000000, "source": "Al Arabiya / Saudi Defence Ministry"
+  },
+  {
+    "id": "mar13_bhr_01", "title": "Drone Strike Sparks Massive Blaze at Airport Fuel Tanks", "location": "MUHARRAQ, BAHRAIN", "lat": 26.2708, "lng": 50.6336, "eventType": "drone", "timestamp": 1773367200000, "source": "Times of India / Local Authorities"
+  },
+  {
+    "id": "mar13_ksa_01_alt", "title": "Air Defenses Neutralize Unprecedented Swarm of Nearly 50 Drones", "location": "SAUDI ARABIA (MULTIPLE)", "lat": 24.7136, "lng": 46.6753, "eventType": "intercept", "timestamp": 1773374400000, "source": "Euro News / Saudi Defence Ministry"
+  },
+  {
+    "id": "mar01_shiraz_01", "title": "Air Defense Suppression Strikes on Shahid Dastghaib Air Base", "location": "SHIRAZ, IRAN", "lat": 29.5392, "lng": 52.5898, "eventType": "missile", "timestamp": 1772340000000, "source": "OSINT / US DoD"
+  },
+  {
+    "id": "mar04_shiraz_01", "title": "Heavy Explosions Reported Near IRGC Aerospace Facilities", "location": "SHIRAZ, IRAN", "lat": 29.5918, "lng": 52.5836, "eventType": "missile", "timestamp": 1772618400000, "source": "IranWire / Local Media"
+  },
+  {
+    "id": "mar07_shiraz_01", "title": "Widespread Sirens and Power Outages Following Suspected Cyber/Kinetic Attack", "location": "SHIRAZ, IRAN", "lat": 29.6100, "lng": 52.5300, "eventType": "siren", "timestamp": 1772884800000, "source": "Local Telegram Channels"
+  },
+  {
+    "id": "mar09_shiraz_01", "title": "Iranian Air Defenses Engage Incoming Stealth Drones", "location": "SHIRAZ, IRAN", "lat": 29.5918, "lng": 52.5836, "eventType": "intercept", "timestamp": 1773060000000, "source": "Fars News Agency"
+  },
+  {
+    "id": "mar11_shiraz_01", "title": "Precision Strike on Shahed Drone Assembly Plant", "location": "SHIRAZ INDUSTRIAL ESTATE", "lat": 29.5000, "lng": 52.6000, "eventType": "missile", "timestamp": 1773232800000, "source": "ISW / Alma Research Center"
+  },
+  {
+    "id": "mar02_teh_01", "title": "Air Defense Sirens Triggered Near Mehrabad International Airport", "location": "TEHRAN, IRAN", "lat": 35.6892, "lng": 51.3125, "eventType": "siren", "timestamp": 1772434800000, "source": "Local Telegram Channels / OSINT"
+  },
+  {
+    "id": "mar05_teh_01", "title": "Unidentified Drones Intercepted Over Downtown Districts", "location": "TEHRAN, IRAN", "lat": 35.6944, "lng": 51.4215, "eventType": "intercept", "timestamp": 1772694000000, "source": "Fars News Agency"
+  },
+  {
+    "id": "mar07_teh_01", "title": "Explosions Reported at Military Logistics Hub on Western Outskirts", "location": "KARAJ (GREATER TEHRAN), IRAN", "lat": 35.8327, "lng": 50.9915, "eventType": "missile", "timestamp": 1772866800000, "source": "IranWire"
+  },
+  {
+    "id": "mar08_teh_01", "title": "Widespread Red Alert Sirens Across Northern Neighborhoods", "location": "NORTHERN TEHRAN, IRAN", "lat": 35.7750, "lng": 51.4333, "eventType": "siren", "timestamp": 1772953200000, "source": "Reuters / OSINT"
+  },
+  {
+    "id": "mar09_teh_01", "title": "Strike Targets Suspected Drone Assembly Facility in Southern Industrial Zone", "location": "REY (SOUTHERN TEHRAN), IRAN", "lat": 35.5833, "lng": 51.4333, "eventType": "missile", "timestamp": 1773039600000, "source": "Alma Research Center"
+  },
+  {
+    "id": "mar12_teh_02", "title": "Air Defenses Engage Incoming Projectiles Over Evin District", "location": "TEHRAN, IRAN", "lat": 35.7961, "lng": 51.3836, "eventType": "intercept", "timestamp": 1773320400000, "source": "OSINT / Local Media"
+  },
+  {
+    "id": "feb28_isr_01", "title": "Direct Missile Impact Destroys Buildings and Causes Civilian Fatality", "location": "TEL AVIV, ISRAEL", "lat": 32.0853, "lng": 34.7818, "eventType": "missile", "timestamp": 1772242800000, "source": "FDD / Local Media"
+  },
+  {
+    "id": "mar01_isr_01", "title": "Air Defenses Down 50 Iranian UAVs Approaching Airspace", "location": "ISRAEL (BORDER REGIONS)", "lat": 31.0461, "lng": 34.8516, "eventType": "intercept", "timestamp": 1772350200000, "source": "IDF International Spokesperson"
+  },
+  {
+    "id": "mar04_isr_01", "title": "Seven Distinct Missile Salvos Trigger Nationwide Alerts from Midnight to 4:00 PM", "location": "ISRAEL (NATIONWIDE)", "lat": 31.0461, "lng": 34.8516, "eventType": "siren", "timestamp": 1772596680000, "source": "IDF Home Front Command"
+  },
+  {
+    "id": "mar04_isr_02", "title": "Simultaneous Two-Front Defense: Interceptions of Hezbollah Drones and Rockets", "location": "NORTHERN ISRAEL", "lat": 33.1000, "lng": 35.5000, "eventType": "intercept", "timestamp": 1772648400000, "source": "FDD / IDF"
+  },
+  {
+    "id": "mar08_isr_01", "title": "Saturation Attack: Multi-Layered Defenses Engage Mass Salvos of Loitering Munitions", "location": "HAIFA, ISRAEL", "lat": 32.7940, "lng": 34.9892, "eventType": "intercept", "timestamp": 1772960400000, "source": "Times of India / Bloomberg"
+  },
+  {
+    "id": "mar10_isr_01", "title": "IDF Confirms Interception of 107 Drones and 285 Missiles Since Conflict Began", "location": "ISRAEL (NATIONWIDE)", "lat": 31.0461, "lng": 34.8516, "eventType": "intercept", "timestamp": 1773136800000, "source": "INSS / Jerusalem Post"
+  },
+  {
+    "id": "mar02_syr_01", "title": "US and Israeli Jets Strike IRGC Weapons Depots", "location": "ALEPPO, SYRIA", "lat": 36.2021, "lng": 37.1343, "eventType": "missile", "timestamp": 1772434800000, "source": "OSINT / Al Jazeera"
+  },
+  {
+    "id": "mar03_syr_01", "title": "Iranian Missile Misfire Hits Residential Building (4 Killed)", "location": "DAMASCUS, SYRIA", "lat": 33.5138, "lng": 36.2765, "eventType": "missile", "timestamp": 1772539200000, "source": "Simple Wikipedia / Local Media"
+  },
+  {
+    "id": "mar07_syr_01", "title": "Air Defenses Intercept Proxy Drones Heading Toward Golan", "location": "DARAA, SYRIA", "lat": 32.6243, "lng": 36.1057, "eventType": "intercept", "timestamp": 1772884800000, "source": "IDF / OSINT"
+  },
+  {
+    "id": "mar10_syr_01", "title": "Strike on IRGC Convoy Near Lebanon Border", "location": "AL-QUSAYR, SYRIA", "lat": 34.5091, "lng": 36.5798, "eventType": "missile", "timestamp": 1773144000000, "source": "SOHR"
+  },
+  {
+    "id": "mar12_syr_01", "title": "Air Strikes Kill 11 Iran-Backed Fighters Near Border", "location": "AL BUKAMAL, SYRIA", "lat": 34.4553, "lng": 40.9133, "eventType": "missile", "timestamp": 1773316800000, "source": "AFP / The Hindu"
+  },
+  {
+    "id": "feb28_ksa_02", "title": "Early Warning Sirens Triggered Amid Regional Barrage", "location": "ARAR, SAUDI ARABIA", "lat": 30.9833, "lng": 41.0167, "eventType": "siren", "timestamp": 1772275200000, "source": "Saudi Civil Defense"
+  },
+  {
+    "id": "mar04_ksa_01", "title": "Attempted Drone Strike on Desalination Plant Intercepted", "location": "AL JUBAIL, SAUDI ARABIA", "lat": 27.0111, "lng": 49.6583, "eventType": "intercept", "timestamp": 1772600000000, "source": "Saudi Defence Ministry / Reuters"
+  },
+  {
+    "id": "mar06_ksa_01", "title": "Militia Drone Shot Down Approaching King Khalid Military City", "location": "HAFAR AL-BATIN, SAUDI ARABIA", "lat": 28.4342, "lng": 45.9636, "eventType": "intercept", "timestamp": 1772780000000, "source": "Al Arabiya"
+  },
+  {
+    "id": "mar09_ksa_01", "title": "Sirens Triggered as Intercepted Debris Falls Near Port Zones", "location": "DAMMAM, SAUDI ARABIA", "lat": 26.4207, "lng": 50.0888, "eventType": "siren", "timestamp": 1773045000000, "source": "Saudi Press Agency"
+  },
+  {
+    "id": "mar11_ksa_02", "title": "Solitary Drone Intercepted Over Red Sea Approaches", "location": "JEDDAH, SAUDI ARABIA", "lat": 21.4858, "lng": 39.1925, "eventType": "intercept", "timestamp": 1773216000000, "source": "Saudi Defence Ministry"
+  },
+  {
+    "id": "mar12_01",
+    "title": "Airstrikes Target Iranian Weapons Transfer Hubs",
+    "location": "DAMASCUS, SYRIA",
+    "lat": 33.5138,
+    "lng": 36.2765,
     "eventType": "missile",
-    "timestamp": 1772304000000,
-    "source": "Reuters / BBC"
+    "timestamp": 1773280800000,
+    "source": "SOHR / OSINT",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar02_ksa_01",
-    "title": "Drone Attack Halts Operations at Ras Tanura Refinery",
-    "location": "RAS TANURA, SAUDI ARABIA",
-    "lat": 26.6425,
-    "lng": 50.1017,
+    "id": "mar12_02",
+    "title": "Drone Swarm Targets US and Coalition Base",
+    "location": "ERBIL, IRAQ",
+    "lat": 36.1901,
+    "lng": 44.009,
     "eventType": "drone",
-    "timestamp": 1772463600000,
-    "source": "The Guardian / Al Jazeera"
+    "timestamp": 1773297000000,
+    "source": "ISW / Local Media",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar02_bhr_01",
-    "title": "Shipyard Worker Killed, Fire on U.S.-Flagged Tanker at Port",
-    "location": "MINA SALMAN, BAHRAIN",
-    "lat": 26.2028,
-    "lng": 50.6083,
-    "eventType": "drone",
-    "timestamp": 1772470000000,
-    "source": "USNI News"
-  },
-  {
-    "id": "mar07_ksa_01",
-    "title": "Iranian Ballistic Missiles Intercepted Over Eastern Province",
-    "location": "DHAHRAN, SAUDI ARABIA",
-    "lat": 26.2361,
-    "lng": 50.0393,
+    "id": "mar12_03",
+    "title": "Air Defenses Intercept 8 Ballistic Missiles",
+    "location": "ABU DHABI, UAE",
+    "lat": 24.4539,
+    "lng": 54.3773,
     "eventType": "intercept",
-    "timestamp": 1772870400000,
-    "source": "Saudi Defence Ministry"
+    "timestamp": 1773309600000,
+    "source": "UAE Ministry of Defence",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar10_shiraz_01",
-    "title": "Coordinated Israeli Strikes Target Military Infrastructure and Airbases",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.5918,
-    "lng": 52.5836,
-    "eventType": "missile",
-    "timestamp": 1773144000000,
-    "source": "IranWire / IDF"
+    "id": "mar12_04",
+    "title": "Missiles Fired From Iran; Sirens and Blasts Heard",
+    "location": "JERUSALEM, ISRAEL",
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "eventType": "siren",
+    "timestamp": 1773330300000,
+    "source": "IDF Telegram / AP",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "mar10_ksa_01",
-    "title": "7 Ballistic Missiles Intercepted Targeting Prince Sultan Air Base",
-    "location": "AL KHARJ, SAUDI ARABIA",
-    "lat": 24.0622,
-    "lng": 47.5636,
-    "eventType": "intercept",
-    "timestamp": 1773122400000,
-    "source": "Saudi Defence Ministry"
-  },
-  {
-    "id": "mar11_bhr_01",
-    "title": "Civilian Killed by Debris After Drone Intercepted Over Tower Block",
-    "location": "MANAMA, BAHRAIN",
-    "lat": 26.2285,
-    "lng": 50.5860,
-    "eventType": "intercept",
-    "timestamp": 1773223200000,
-    "source": "Gulf Daily News / Al Jazeera"
-  },
-  {
-    "id": "mar11_ksa_01",
-    "title": "14 Kamikaze Drones Intercepted Over Kingdom Airspace",
-    "location": "SAUDI ARABIA (MULTIPLE)",
+    "id": "mar12_05",
+    "title": "Massive Drone Interception Over Capital",
+    "location": "RIYADH, SAUDI ARABIA",
     "lat": 24.7136,
     "lng": 46.6753,
     "eventType": "intercept",
-    "timestamp": 1773255600000,
-    "source": "Saudi Defence Ministry"
-  },
-  {
-    "id": "mar13_ksa_01",
-    "title": "Drones Shot Down Near Riyadh; Refinery Fire Efforts Ongoing",
-    "location": "RIYADH / RAS TANURA, SAUDI ARABIA",
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "eventType": "drone",
-    "timestamp": 1773380000000,
-    "source": "Al Jazeera"
-  },
-  {
-    "id": "feb28_bhr_01_alt",
-    "title": "Iranian Missile/Drone Strike on US 5th Fleet HQ and Era Views Tower",
-    "location": "MANAMA, BAHRAIN",
-    "lat": 26.2153,
-    "lng": 50.6033,
-    "eventType": "missile",
-    "timestamp": 1772280000000,
-    "source": "US Navy / Local Media"
-  },
-  {
-    "id": "mar01_ksa_01",
-    "title": "Missiles Intercepted Targeting Air Base and International Airport",
-    "location": "RIYADH, SAUDI ARABIA",
-    "lat": 24.9576,
-    "lng": 46.7386,
-    "eventType": "intercept",
-    "timestamp": 1772366400000,
-    "source": "Saudi Defence Ministry"
-  },
-  {
-    "id": "mar02_ksa_01_alt",
-    "title": "Drone Attack Causes Fire at Ras Tanura Oil Refinery",
-    "location": "RAS TANURA, SAUDI ARABIA",
-    "lat": 26.6425,
-    "lng": 50.1017,
-    "eventType": "drone",
-    "timestamp": 1772452800000,
-    "source": "The Guardian / Saudi Authorities"
-  },
-  {
-    "id": "mar02_bhr_01_alt",
-    "title": "Missile Strikes Mina Salman Port; Shipyard Worker Killed, US Tanker Ablaze",
-    "location": "MINA SALMAN, BAHRAIN",
-    "lat": 26.2028,
-    "lng": 50.6083,
-    "eventType": "missile",
-    "timestamp": 1772460000000,
-    "source": "USNI News / Reuters"
-  },
-  {
-    "id": "mar03_ksa_01",
-    "title": "US Embassy Targeted by Drones; Minor Damage and Fire Reported",
-    "location": "RIYADH, SAUDI ARABIA",
-    "lat": 24.6828,
-    "lng": 46.6219,
-    "eventType": "drone",
-    "timestamp": 1772539200000,
-    "source": "Washington Post / Saudi Authorities"
-  },
-  {
-    "id": "mar08_ksa_01",
-    "title": "Drone Strike on Residential Building Kills Two Civilians",
-    "location": "AL-KHARJ, SAUDI ARABIA",
-    "lat": 24.1500,
-    "lng": 47.3000,
-    "eventType": "drone",
-    "timestamp": 1772971200000,
-    "source": "Al Jazeera / Civil Defense"
-  },
-  {
-    "id": "mar09_bhr_01",
-    "title": "Drone Strike on BAPCO Oil Refinery Causes 32 Civilian Injuries",
-    "location": "SITRA ISLAND, BAHRAIN",
-    "lat": 26.1606,
-    "lng": 50.6206,
-    "eventType": "drone",
-    "timestamp": 1773057600000,
-    "source": "Bahrain State Media"
-  },
-  {
-    "id": "mar10_shiraz_01_alt",
-    "title": "IDF Strikes Military Infrastructure and Command Centers",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.5918,
-    "lng": 52.5836,
-    "eventType": "missile",
-    "timestamp": 1773144000000,
-    "source": "IDF / The Media Line"
-  },
-  {
-    "id": "mar10_bhr_01",
-    "title": "Intercepted Drone Debris Kills 29-Year-Old Woman in Seef District",
-    "location": "MANAMA, BAHRAIN",
-    "lat": 26.2361,
-    "lng": 50.5344,
-    "eventType": "intercept",
-    "timestamp": 1773151200000,
-    "source": "Bahrain Interior Ministry"
+    "timestamp": 1773350100000,
+    "source": "Saudi Defence Ministry",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar12_shiraz_01",
@@ -493,7 +461,8 @@
     "lng": 52.5836,
     "eventType": "missile",
     "timestamp": 1773316800000,
-    "source": "Times of Israel / IDF"
+    "source": "Times of Israel / IDF",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar12_ksa_01",
@@ -503,126 +472,8 @@
     "lng": 50.0393,
     "eventType": "intercept",
     "timestamp": 1773324000000,
-    "source": "Al Arabiya / Saudi Defence Ministry"
-  },
-  {
-    "id": "mar13_bhr_01",
-    "title": "Drone Strike Sparks Massive Blaze at Airport Fuel Tanks",
-    "location": "MUHARRAQ, BAHRAIN",
-    "lat": 26.2708,
-    "lng": 50.6336,
-    "eventType": "drone",
-    "timestamp": 1773367200000,
-    "source": "Times of India / Local Authorities"
-  },
-  {
-    "id": "mar13_ksa_01_alt",
-    "title": "Air Defenses Neutralize Unprecedented Swarm of Nearly 50 Drones",
-    "location": "SAUDI ARABIA (MULTIPLE)",
-    "lat": 24.7136,
-    "lng": 46.6753,
-    "eventType": "intercept",
-    "timestamp": 1773374400000,
-    "source": "Euro News / Saudi Defence Ministry"
-  },
-  {
-    "id": "mar01_shiraz_01",
-    "title": "Air Defense Suppression Strikes on Shahid Dastghaib Air Base",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.5392,
-    "lng": 52.5898,
-    "eventType": "missile",
-    "timestamp": 1772340000000,
-    "source": "OSINT / US DoD"
-  },
-  {
-    "id": "mar04_shiraz_01",
-    "title": "Heavy Explosions Reported Near IRGC Aerospace Facilities",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.5918,
-    "lng": 52.5836,
-    "eventType": "missile",
-    "timestamp": 1772618400000,
-    "source": "IranWire / Local Media"
-  },
-  {
-    "id": "mar07_shiraz_01",
-    "title": "Widespread Sirens and Power Outages Following Suspected Cyber/Kinetic Attack",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.6100,
-    "lng": 52.5300,
-    "eventType": "siren",
-    "timestamp": 1772884800000,
-    "source": "Local Telegram Channels"
-  },
-  {
-    "id": "mar09_shiraz_01",
-    "title": "Iranian Air Defenses Engage Incoming Stealth Drones",
-    "location": "SHIRAZ, IRAN",
-    "lat": 29.5918,
-    "lng": 52.5836,
-    "eventType": "intercept",
-    "timestamp": 1773060000000,
-    "source": "Fars News Agency"
-  },
-  {
-    "id": "mar11_shiraz_01",
-    "title": "Precision Strike on Shahed Drone Assembly Plant",
-    "location": "SHIRAZ INDUSTRIAL ESTATE",
-    "lat": 29.5000,
-    "lng": 52.6000,
-    "eventType": "missile",
-    "timestamp": 1773232800000,
-    "source": "ISW / Alma Research Center"
-  },
-  {
-    "id": "mar02_teh_01",
-    "title": "Air Defense Sirens Triggered Near Mehrabad International Airport",
-    "location": "TEHRAN, IRAN",
-    "lat": 35.6892,
-    "lng": 51.3125,
-    "eventType": "siren",
-    "timestamp": 1772434800000,
-    "source": "Local Telegram Channels / OSINT"
-  },
-  {
-    "id": "mar05_teh_01",
-    "title": "Unidentified Drones Intercepted Over Downtown Districts",
-    "location": "TEHRAN, IRAN", "lat": 35.6944,
-    "lng": 51.4215,
-    "eventType": "intercept",
-    "timestamp": 1772694000000,
-    "source": "Fars News Agency"
-  },
-  {
-    "id": "mar07_teh_01",
-    "title": "Explosions Reported at Military Logistics Hub on Western Outskirts",
-    "location": "KARAJ (GREATER TEHRAN), IRAN",
-    "lat": 35.8327,
-    "lng": 50.9915,
-    "eventType": "missile",
-    "timestamp": 1772866800000,
-    "source": "IranWire"
-  },
-  {
-    "id": "mar08_teh_01",
-    "title": "Widespread Red Alert Sirens Across Northern Neighborhoods",
-    "location": "NORTHERN TEHRAN, IRAN",
-    "lat": 35.7750,
-    "lng": 51.4333,
-    "eventType": "siren",
-    "timestamp": 1772953200000,
-    "source": "Reuters / OSINT"
-  },
-  {
-    "id": "mar09_teh_01",
-    "title": "Strike Targets Suspected Drone Assembly Facility in Southern Industrial Zone",
-    "location": "REY (SOUTHERN TEHRAN), IRAN",
-    "lat": 35.5833,
-    "lng": 51.4333,
-    "eventType": "missile",
-    "timestamp": 1773039600000,
-    "source": "Alma Research Center"
+    "source": "Al Arabiya / Saudi Defence Ministry",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar12_teh_02",
@@ -632,107 +483,8 @@
     "lng": 51.3836,
     "eventType": "intercept",
     "timestamp": 1773320400000,
-    "source": "OSINT / Local Media"
-  },
-  {
-    "id": "feb28_isr_01",
-    "title": "Direct Missile Impact Destroys Buildings and Causes Civilian Fatality",
-    "location": "TEL AVIV, ISRAEL",
-    "lat": 32.0853,
-    "lng": 34.7818,
-    "eventType": "missile",
-    "timestamp": 1772242800000,
-    "source": "FDD / Local Media"
-  },
-  {
-    "id": "mar01_isr_01",
-    "title": "Air Defenses Down 50 Iranian UAVs Approaching Airspace",
-    "location": "ISRAEL (BORDER REGIONS)",
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "eventType": "intercept",
-    "timestamp": 1772350200000,
-    "source": "IDF International Spokesperson"
-  },
-  {
-    "id": "mar04_isr_01",
-    "title": "Seven Distinct Missile Salvos Trigger Nationwide Alerts from Midnight to 4:00 PM",
-    "location": "ISRAEL (NATIONWIDE)",
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "eventType": "siren",
-    "timestamp": 1772596680000,
-    "source": "IDF Home Front Command"
-  },
-  {
-    "id": "mar04_isr_02",
-    "title": "Simultaneous Two-Front Defense: Interceptions of Hezbollah Drones and Rockets",
-    "location": "NORTHERN ISRAEL",
-    "lat": 33.1000,
-    "lng": 35.5000,
-    "eventType": "intercept",
-    "timestamp": 1772648400000,
-    "source": "FDD / IDF"
-  },
-  {
-    "id": "mar08_isr_01",
-    "title": "Saturation Attack: Multi-Layered Defenses Engage Mass Salvos of Loitering Munitions",
-    "location": "HAIFA, ISRAEL",
-    "lat": 32.7940,
-    "lng": 34.9892,
-    "eventType": "intercept",
-    "timestamp": 1772960400000,
-    "source": "Times of India / Bloomberg"
-  },
-  {
-    "id": "mar10_isr_01",
-    "title": "IDF Confirms Interception of 107 Drones and 285 Missiles Since Conflict Began",
-    "location": "ISRAEL (NATIONWIDE)",
-    "lat": 31.0461,
-    "lng": 34.8516,
-    "eventType": "intercept",
-    "timestamp": 1773136800000,
-    "source": "INSS / Jerusalem Post"
-  },
-  {
-    "id": "mar02_syr_01",
-    "title": "US and Israeli Jets Strike IRGC Weapons Depots",
-    "location": "ALEPPO, SYRIA",
-    "lat": 36.2021,
-    "lng": 37.1343,
-    "eventType": "missile",
-    "timestamp": 1772434800000,
-    "source": "OSINT / Al Jazeera"
-  },
-  {
-    "id": "mar03_syr_01",
-    "title": "Iranian Missile Misfire Hits Residential Building (4 Killed)",
-    "location": "DAMASCUS, SYRIA",
-    "lat": 33.5138,
-    "lng": 36.2765,
-    "eventType": "missile",
-    "timestamp": 1772539200000,
-    "source": "Simple Wikipedia / Local Media"
-  },
-  {
-    "id": "mar07_syr_01",
-    "title": "Air Defenses Intercept Proxy Drones Heading Toward Golan",
-    "location": "DARAA, SYRIA",
-    "lat": 32.6243,
-    "lng": 36.1057,
-    "eventType": "intercept",
-    "timestamp": 1772884800000,
-    "source": "IDF / OSINT"
-  },
-  {
-    "id": "mar10_syr_01",
-    "title": "Strike on IRGC Convoy Near Lebanon Border",
-    "location": "AL-QUSAYR, SYRIA",
-    "lat": 34.5091,
-    "lng": 36.5798,
-    "eventType": "missile",
-    "timestamp": 1773144000000,
-    "source": "SOHR"
+    "source": "OSINT / Local Media",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
     "id": "mar12_syr_01",
@@ -742,56 +494,302 @@
     "lng": 40.9133,
     "eventType": "missile",
     "timestamp": 1773316800000,
-    "source": "AFP / The Hindu"
+    "source": "AFP / The Hindu",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
   },
   {
-    "id": "feb28_ksa_02",
-    "title": "Early Warning Sirens Triggered Amid Regional Barrage",
-    "location": "ARAR, SAUDI ARABIA",
-    "lat": 30.9833,
-    "lng": 41.0167,
+    "id": "mar13_01",
+    "title": "IDF Airstrikes Target Rocket Launch Sites",
+    "location": "TYRE, LEBANON",
+    "lat": 33.2705,
+    "lng": 35.2038,
+    "eventType": "missile",
+    "timestamp": 1773364800000,
+    "source": "Reuters",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
+  },
+  {
+    "id": "mar13_02",
+    "title": "Drone Strike Attempt Intercepted; Debris Falls in Commercial Zone",
+    "location": "DUBAI, UAE",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "eventType": "drone",
+    "timestamp": 1773373500000,
+    "source": "Dubai Media Office / Gulf News",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
+  },
+  {
+    "id": "mar13_03",
+    "title": "New Wave of Iranian Missiles Intercepted Over Northern Border",
+    "location": "NORTHERN ISRAEL",
+    "lat": 33.1,
+    "lng": 35.5,
+    "eventType": "intercept",
+    "timestamp": 1773378600000,
+    "source": "IDF",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
+  },
+  {
+    "id": "mar13_bhr_01",
+    "title": "Drone Strike Sparks Massive Blaze at Airport Fuel Tanks",
+    "location": "MUHARRAQ, BAHRAIN",
+    "lat": 26.2708,
+    "lng": 50.6336,
+    "eventType": "drone",
+    "timestamp": 1773367200000,
+    "source": "Times of India / Local Authorities",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
+  },
+  {
+    "id": "mar13_ksa_01_alt",
+    "title": "Air Defenses Neutralize Unprecedented Swarm of Nearly 50 Drones",
+    "location": "SAUDI ARABIA (MULTIPLE)",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "eventType": "intercept",
+    "timestamp": 1773374400000,
+    "source": "Euro News / Saudi Defence Ministry",
+    "videoSrc": "PASTE_TELEGRAM_MP4_LINK_HERE"
+  },
+  {
+    "id": "mar12_01",
+    "title": "Wave 13: IAF Jets Strike Central Tehran and Western IRGC Hubs",
+    "location": "TEHRAN, IRAN",
+    "lat": 35.6892,
+    "lng": 51.3890,
+    "eventType": "missile",
+    "timestamp": 1773280800000,
+    "source": "IDF / Alma Research",
+    "mediaHTML": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/lojCspTCpAA?autoplay=1&mute=1&controls=0' frameborder='0' allow='autoplay; encrypted-media' style='border-radius:4px; margin-top:8px; border: 1px solid #333;'></iframe>"
+  },
+  {
+    "id": "mar12_02",
+    "title": "US KC-135 Refueling Tanker Crashes During Combat Ops",
+    "location": "WESTERN IRAQ",
+    "lat": 33.3152,
+    "lng": 44.3661,
+    "eventType": "intercept",
+    "timestamp": 1773297000000,
+    "source": "US CENTCOM",
+    "videoSrc": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111580077/DOD_111580077.mp4"
+  },
+  {
+    "id": "mar12_03",
+    "title": "Iranian UAVs Target Fuel Storage at Port of Salalah",
+    "location": "SALALAH, OMAN",
+    "lat": 16.9472,
+    "lng": 54.0047,
+    "eventType": "drone",
+    "timestamp": 1773309600000,
+    "source": "Royal Oman Police / OSINT"
+  },
+  {
+    "id": "mar12_04",
+    "title": "Missiles Fired From Iran; Sirens and Blasts Heard Across Capital",
+    "location": "JERUSALEM, ISRAEL",
+    "lat": 31.7683,
+    "lng": 35.2137,
     "eventType": "siren",
-    "timestamp": 1772275200000,
-    "source": "Saudi Civil Defense"
+    "timestamp": 1773330300000,
+    "source": "Anadolu Agency",
+    "mediaHTML": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/kdVuIfTvrJk?autoplay=1&mute=1&controls=0' frameborder='0' allow='autoplay; encrypted-media' style='border-radius:4px; margin-top:8px; border: 1px solid #333;'></iframe>"
   },
   {
-    "id": "mar04_ksa_01",
-    "title": "Attempted Drone Strike on Desalination Plant Intercepted",
-    "location": "AL JUBAIL, SAUDI ARABIA",
-    "lat": 27.0111,
-    "lng": 49.6583,
+    "id": "mar13_01",
+    "title": "Saudi Air Defenses Intercept 12 Drones Entering Airspace",
+    "location": "SAUDI ARABIA (BORDER)",
+    "lat": 24.7136,
+    "lng": 46.6753,
     "eventType": "intercept",
-    "timestamp": 1772600000000,
-    "source": "Saudi Defence Ministry / Reuters"
+    "timestamp": 1773364800000,
+    "source": "Saudi MoD / AFP"
   },
   {
-    "id": "mar06_ksa_01",
-    "title": "Militia Drone Shot Down Approaching King Khalid Military City",
-    "location": "HAFAR AL-BATIN, SAUDI ARABIA",
-    "lat": 28.4342,
-    "lng": 45.9636,
-    "eventType": "intercept",
-    "timestamp": 1772780000000,
-    "source": "Al Arabiya"
+    "id": "mar13_02",
+    "title": "Majnoon Oilfield Targeted by Two Suicide Drones",
+    "location": "MAJNOON, IRAQ",
+    "lat": 31.0450,
+    "lng": 47.4120,
+    "eventType": "drone",
+    "timestamp": 1773373500000,
+    "source": "Reuters"
   },
   {
-    "id": "mar09_ksa_01",
-    "title": "Sirens Triggered as Intercepted Debris Falls Near Port Zones",
-    "location": "DAMMAM, SAUDI ARABIA",
-    "lat": 26.4207,
-    "lng": 50.0888,
+    "id": "mar14_01",
+    "title": "US Strategic Strikes on Iranian Kharg Island Oil Hub",
+    "location": "KHARG ISLAND, IRAN",
+    "lat": 29.2333,
+    "lng": 50.3167,
+    "eventType": "missile",
+    "timestamp": 1773450000000,
+    "source": "US War Dept",
+    "videoSrc": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111580077/DOD_111580077.mp4"
+  },
+  {
+    "id": "mar14_02",
+    "title": "Record 56 Hezbollah Attack Waves Target Galilee and Center",
+    "location": "HAIFA, ISRAEL",
+    "lat": 32.7940,
+    "lng": 34.9892,
     "eventType": "siren",
-    "timestamp": 1773045000000,
-    "source": "Saudi Press Agency"
+    "timestamp": 1773455000000,
+    "source": "IDF / Times of Israel"
   },
   {
-    "id": "mar11_ksa_02",
-    "title": "Solitary Drone Intercepted Over Red Sea Approaches",
-    "location": "JEDDAH, SAUDI ARABIA",
-    "lat": 21.4858,
-    "lng": 39.1925,
+    "id": "mar15_01",
+    "title": "Deep Penetration Strikes: IAF F-35s Target ISRC ICBM Hub",
+    "location": "SHAHRUD, IRAN",
+    "lat": 36.4180,
+    "lng": 55.0160,
+    "eventType": "missile",
+    "timestamp": 1773536400000,
+    "source": "IDF / Alma Research",
+    "videoSrc": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111551494/DOD_111551494.mp4"
+  },
+  {
+    "id": "mar15_02",
+    "title": "Cluster Munition Impacts Reported in Urban Residential Areas",
+    "location": "RAMAT GAN, ISRAEL",
+    "lat": 32.0823,
+    "lng": 34.8105,
+    "eventType": "missile",
+    "timestamp": 1773540000000,
+    "source": "AP News",
+    "mediaHTML": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/RIBl7HY0F0Y?autoplay=1&mute=1&controls=0' frameborder='0' allow='autoplay; encrypted-media' style='border-radius:4px; margin-top:8px; border: 1px solid #333;'></iframe>"
+  },
+  {
+    "id": "mar16_01",
+    "title": "Combat Flight Milestone: 6,500+ Missions Conducted in 17 Days",
+    "location": "TEHRAN, IRAN",
+    "lat": 35.6892,
+    "lng": 51.3890,
+    "eventType": "missile",
+    "timestamp": 1773622800000,
+    "source": "US War Dept",
+    "videoSrc": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111565192/DOD_111565192-1920x1080-9000k.mp4"
+  },
+  {
+    "id": "mar17_01",
+    "title": "Elimination: Pragmatic Senior Official Ali Larijani Killed in Strike",
+    "location": "TEHRAN, IRAN",
+    "lat": 35.6944,
+    "lng": 51.4215,
+    "eventType": "missile",
+    "timestamp": 1773662400000,
+    "source": "Britannica / Vision IAS"
+  },
+  {
+    "id": "mar17_02",
+    "title": "Limited Ground Invasion of Southern Lebanon Commences",
+    "location": "LEBANON BORDER",
+    "lat": 33.2705,
+    "lng": 35.2038,
+    "eventType": "missile",
+    "timestamp": 1773670000000,
+    "source": "IDF Alerts / Reuters"
+  },
+  {
+    "id": "mar18_01",
+    "title": "Energy War Escalation: Massive Strike on Asaluyeh Gas Hub",
+    "location": "ASALUYEH, IRAN",
+    "lat": 27.4760,
+    "lng": 52.6080,
+    "eventType": "missile",
+    "timestamp": 1773726000000,
+    "source": "Stimson Center",
+    "mediaHTML": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/fUjH9LInyNo?autoplay=1&mute=1&controls=0' frameborder='0' allow='autoplay; encrypted-media' style='border-radius:4px; margin-top:8px; border: 1px solid #333;'></iframe>"
+  },
+  {
+    "id": "mar18_02",
+    "title": "Bunker Buster Strike: US Drops 2.5 Ton Munitions on Missile Sites",
+    "location": "STRAIT OF HORMUZ",
+    "lat": 26.5667,
+    "lng": 56.2500,
+    "eventType": "missile",
+    "timestamp": 1773735000000,
+    "source": "US War Dept / Alma",
+    "videoSrc": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111580077/DOD_111580077.mp4"
+  },
+  {
+    "id": "mar18_03",
+    "title": "IAEA Report: Rogue Iranian Missile Strikes Near Bushehr Reactor",
+    "location": "BUSHEHR, IRAN",
+    "lat": 28.8290,
+    "lng": 50.8840,
+    "eventType": "siren",
+    "timestamp": 1773748000000,
+    "source": "IAEA / Alma"
+  },
+  {
+    "id": "mar19_01",
+    "title": "Retaliatory Strike: Ras Laffan LNG Complex Struck by Iranian Missiles",
+    "location": "RAS LAFFAN, QATAR",
+    "lat": 25.8940,
+    "lng": 51.5400,
+    "eventType": "missile",
+    "timestamp": 1773810000000,
+    "source": "Stimson / Reuters"
+  },
+  {
+    "id": "mar20_01",
+    "title": "Horizontal Escalation: Swarm Drones Target Red Sea Energy Hub",
+    "location": "YANBU, SAUDI ARABIA",
+    "lat": 23.9570,
+    "lng": 38.2560,
+    "eventType": "drone",
+    "timestamp": 1773936000000,
+    "source": "Stimson / Reuters"
+  },
+  {
+    "id": "mar21_01",
+    "title": "Confirmed Death Toll in Iran Surpasses 1,500 Since War Began",
+    "location": "TEHRAN, IRAN",
+    "lat": 35.6892,
+    "lng": 51.3890,
+    "eventType": "missile",
+    "timestamp": 1774022000000,
+    "source": "The Guardian / IRIB"
+  },
+  {
+    "id": "mar21_02",
+    "title": "US Lifts Sanctions on Iranian Oil Loaded on Ships to Stem Price Surge",
+    "location": "PERSIAN GULF",
+    "lat": 26.0000,
+    "lng": 52.0000,
     "eventType": "intercept",
-    "timestamp": 1773216000000,
-    "source": "Saudi Defence Ministry"
+    "timestamp": 1774035000000,
+    "source": "The Hindu / White House"
+  },
+  {
+    "id": "mar22_01",
+    "title": "Unprecedented Strike: Alleged Iranian Missiles Target Diego Garcia Base",
+    "location": "DIEGO GARCIA",
+    "lat": -7.3195,
+    "lng": 72.4228,
+    "eventType": "missile",
+    "timestamp": 1774110000000,
+    "source": "Wikipedia / BBC"
+  },
+  {
+    "id": "mar23_01",
+    "title": "Tactical Pause: Trump Postpones Power Plant Strikes for 5 Days",
+    "location": "WASHINGTON / TEHRAN",
+    "lat": 38.8977,
+    "lng": -77.0365,
+    "eventType": "intercept",
+    "timestamp": 1774195000000,
+    "source": "Wikipedia"
+  },
+  {
+    "id": "mar23_02",
+    "title": "Mass Casualty Event: Central Israel Hit by Heavy Missile Waves",
+    "location": "TEL AVIV, ISRAEL",
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "eventType": "missile",
+    "timestamp": 1774210000000,
+    "source": "AP News / UN",
+    "mediaHTML": "<iframe width='100%' height='200' src='https://www.youtube.com/embed/S_8qK2G68fA?autoplay=1&mute=1&controls=0' frameborder='0' allow='autoplay; encrypted-media' style='border-radius:4px; margin-top:8px; border: 1px solid #333;'></iframe>"
   }
 ]
